@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnglishPremierLeagueResultProcessor", "EnglishPremierLeagueResultProcessor\EnglishPremierLeagueResultProcessor.csproj", "{11A2C43E-9A3E-4E7C-AE65-11CA71CBF868}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnglishPremierLeagueResultTests", "EnglishPremierLeagueResultTests\EnglishPremierLeagueResultTests.csproj", "{43D46976-EA5C-4564-A7C0-6A7354CD816F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11A2C43E-9A3E-4E7C-AE65-11CA71CBF868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11A2C43E-9A3E-4E7C-AE65-11CA71CBF868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11A2C43E-9A3E-4E7C-AE65-11CA71CBF868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11A2C43E-9A3E-4E7C-AE65-11CA71CBF868}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43D46976-EA5C-4564-A7C0-6A7354CD816F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D46976-EA5C-4564-A7C0-6A7354CD816F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D46976-EA5C-4564-A7C0-6A7354CD816F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D46976-EA5C-4564-A7C0-6A7354CD816F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD34F3C0-BB8F-4365-9C6E-6A50DE187915}
+	EndGlobalSection
+EndGlobal
